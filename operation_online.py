@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 20 15:13:24 2021
-
-@author: LJC
-"""
 import os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
